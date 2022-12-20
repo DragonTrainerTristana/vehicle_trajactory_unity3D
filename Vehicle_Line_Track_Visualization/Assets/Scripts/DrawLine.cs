@@ -33,7 +33,7 @@ public class DrawLine : MonoBehaviour
         checkPoint = GameObject.FindGameObjectsWithTag("CheckPoint");
         if (checkPoint.Length > 1 && OriginalTime >= criteriaTime) {
             OriginalTime = 0;
-            for (int i = 0; i < checkPoint.Length - 1; i++) {
+            for (int i = count; i < checkPoint.Length - 1; i++) {
 
 
 
