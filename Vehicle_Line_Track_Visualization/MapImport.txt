@@ -1,0 +1,6 @@
+Blender
+Renderdoc
+MapImporter
+Chrome debug mod
+
+<- https://www.youtube.com/watch?v=dmLXgt0sfq8&ab_channel=NikoDellic
